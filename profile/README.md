@@ -2,7 +2,7 @@
 
 Fitnis is and organization for AASS semestral project
 
-### Hospital information system
+### Hospital information system
 
 Authors:
 - Michal Magula
