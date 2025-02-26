@@ -8,6 +8,8 @@ Authors:
 - Michal Magula
 - Jakub Hrnčár
 
+[Layered architecture monopoly repository](https://github.com/fitnis/fitnis-layered)
+
 <!--
 
 **Here are some ideas to get you started:**
