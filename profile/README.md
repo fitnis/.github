@@ -9,7 +9,9 @@ Authors:
 - Jakub Hrnčár
 
 [Layered architecture](https://github.com/fitnis/fitnis-layered)
+
 [Microservices architecture] - Coming soon
+
 [Event driven architecture] - Coming soon
 
 ## Documentation
