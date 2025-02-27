@@ -8,7 +8,13 @@ Authors:
 - Michal Magula
 - Jakub Hrnčár
 
-[Layered architecture monopoly repository](https://github.com/fitnis/fitnis-layered)
+[Layered architecture](https://github.com/fitnis/fitnis-layered)
+[Microservices architecture] - Coming soon
+[Event driven architecture] - Coming soon
+
+## Documentation
+Maybe here or in PDF
+
 
 <!--
 
