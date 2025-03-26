@@ -10,7 +10,7 @@ Authors:
 
 [Layered architecture](https://github.com/fitnis/fitnis-layered)
 
-[Microservices architecture](https://github.com/fitnis/fitnis-microservices) - Coming soon
+[Microservices architecture](https://github.com/fitnis/fitnis-microservices)
 
 [Event driven architecture] - Coming soon
 
